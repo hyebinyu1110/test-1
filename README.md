@@ -20,3 +20,6 @@ git means "global information tracker"
 [github](http://github.com)
 
 [google](http://github.com, "검색사이트")
+
+
+![이미지연습](http://kyrieko.dothome.co.kr/images/first.jpg)
