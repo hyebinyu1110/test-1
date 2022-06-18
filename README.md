@@ -22,4 +22,4 @@ git means "global information tracker"
 [google](http://github.com, "검색사이트")
 
 
-![핑크로즈](./images/rose.jpg)
+![핑크로즈](./images/rose.jpg) 즐겁게
